@@ -1,6 +1,13 @@
-<h2 align="left">Hi 👋! My name is Vinicius Aguiar, and I'm a student in Systems Analysis and Development from São Paulo.</h2>
+<h1 align="center">Hello, world! 🌍</h1>
 
-###
+<p align="center">
+  Hi 👋!  My name is Vinicius Aguiar, a Beginner Developer. <br>
+📚 - Student of Systems Analysis and Development <br>
+💻 - Focused on Back-End Development <br>
+🚀 - Learning Full-Stack Technologies <br>
+📍 - Currently in São Paulo, Brazil 
+</p><br>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinny1804&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -21,6 +28,7 @@
 
 ###
 
+<h2></h2>  
 <div align="center">
   <a href="https://www.linkedin.com/in/vinicius-bernardino-aguiar-5783a627b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
