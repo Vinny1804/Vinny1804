@@ -3,7 +3,6 @@
 <p align="left"><br>
   Hi !  My name is Vinicius Aguiar, a Beginner Developer. <br>
 - Student of Systems Analysis and Development  <br>
-- Focused on Back-End Development  <br>
 - Learning Full-Stack Technologies  <br>
 - Currently in São Paulo, Brazil <br>
   
